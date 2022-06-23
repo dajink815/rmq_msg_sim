@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<msg>
+    <header>
+        <name>transactionId</name>
+        <name>msgFrom</name>
+        <name>timestamp</name>
+    </header>
+    <body>
+        <name>callId</name>
+        <name>taskId</name>
+        <name>sdp</name>
+    </body>
+</msg>
